@@ -6,7 +6,8 @@
 
 登入畫面-可供業者登入與顧客註冊後註冊
 
-<img width="586" alt="螢幕擷取畫面 2023-04-27 235618" src="https://user-images.githubusercontent.com/117417303/234918970-01e687a5-5e84-41d1-9874-45d39730e1e7.png">
+<img width="583" alt="螢幕擷取畫面 2023-04-28 003335" src="https://user-images.githubusercontent.com/117417303/234930184-804e1667-22ca-4e9e-8335-eae70705a584.png">
+
 
 ［黃色區塊為顧客登入後介面］
 
