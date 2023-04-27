@@ -4,7 +4,6 @@
 
 
 登入畫面-可供業者登入與顧客註冊後註冊
-
 <img width="586" alt="螢幕擷取畫面 2023-04-27 235618" src="https://user-images.githubusercontent.com/117417303/234918970-01e687a5-5e84-41d1-9874-45d39730e1e7.png">
 
 ［黃色區塊為顧客登入後介面］
@@ -17,14 +16,12 @@
 
 
 會員管理頁面-可修改個人會員資料
-
 <img width="674" alt="螢幕擷取畫面 2023-04-28 001326" src="https://user-images.githubusercontent.com/117417303/234925670-fa68bbf9-888f-4811-a40e-d618b2f92ba8.png">
 
 
 ［藍色區塊為業者登入後介面］
 
 訂單管理頁面-可查看顧客新增的訂單，並在訂單完成後將訂單修改為已完成
-
 <img width="677" alt="螢幕擷取畫面 2023-04-28 001126" src="https://user-images.githubusercontent.com/117417303/234925591-d1d78abf-7345-4779-9dfa-161c002cbc6b.png">
 
 商品管理頁面－可上架新產品及修改現有產品價格圖片等資訊
