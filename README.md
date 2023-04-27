@@ -22,5 +22,10 @@
 訂單管理頁面-可查看顧客新增的訂單，並在訂單完成後將訂單修改為已完成
 
 <img width="677" alt="螢幕擷取畫面 2023-04-28 001126" src="https://user-images.githubusercontent.com/117417303/234925591-d1d78abf-7345-4779-9dfa-161c002cbc6b.png">
+
+商品管理頁面－可上架新產品及修改現有產品價格圖片等資訊
+
 <img width="679" alt="螢幕擷取畫面 2023-04-28 000410" src="https://user-images.githubusercontent.com/117417303/234921069-33f30ee0-b1fd-47ec-b4d6-911f760d931f.png">
+
+會員管理頁面－可查看會員資料，以及管理會員之ＣＲＵＤ
 <img width="680" alt="螢幕擷取畫面 2023-04-28 000441" src="https://user-images.githubusercontent.com/117417303/234921082-706b5877-18f7-46c7-b53c-1fb5e16a8e33.png">
