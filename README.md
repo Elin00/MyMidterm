@@ -1,4 +1,8 @@
 # 資展全端班期中專案
+使用Windows Form介面，搭配C#程式語言與SQL資料庫，運用ADO.NET技術製作含有CRUD功能的顧客訂餐系統，與後台訂單、資料管理系統
+
+
+
 登入畫面-可供業者登入與顧客註冊後註冊
 
 <img width="586" alt="螢幕擷取畫面 2023-04-27 235618" src="https://user-images.githubusercontent.com/117417303/234918970-01e687a5-5e84-41d1-9874-45d39730e1e7.png">
@@ -24,7 +28,6 @@
 <img width="677" alt="螢幕擷取畫面 2023-04-28 001126" src="https://user-images.githubusercontent.com/117417303/234925591-d1d78abf-7345-4779-9dfa-161c002cbc6b.png">
 
 商品管理頁面－可上架新產品及修改現有產品價格圖片等資訊
-
 <img width="679" alt="螢幕擷取畫面 2023-04-28 000410" src="https://user-images.githubusercontent.com/117417303/234921069-33f30ee0-b1fd-47ec-b4d6-911f760d931f.png">
 
 會員管理頁面－可查看會員資料，以及管理會員之ＣＲＵＤ
