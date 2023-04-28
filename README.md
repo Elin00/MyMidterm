@@ -35,6 +35,6 @@
 
 <img width="679" alt="螢幕擷取畫面 2023-04-28 000410" src="https://user-images.githubusercontent.com/117417303/234921069-33f30ee0-b1fd-47ec-b4d6-911f760d931f.png">
 
-會員管理頁面－可查看會員資料，以及管理會員之ＣＲＵＤ
+會員管理頁面－可查看會員資料，以及管理會員之CRUD
 
 <img width="680" alt="螢幕擷取畫面 2023-04-28 000441" src="https://user-images.githubusercontent.com/117417303/234921082-706b5877-18f7-46c7-b53c-1fb5e16a8e33.png">
